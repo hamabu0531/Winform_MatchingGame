@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hamab\\c#\\windowsform\\MatchingGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E89C5AB1-6745-42CC-8C40-F0761A990F2E}|MatchingGame\\MatchingGame.csproj|c:\\users\\hamab\\c#\\windowsform\\matchinggame\\matchinggame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E89C5AB1-6745-42CC-8C40-F0761A990F2E}|MatchingGame\\MatchingGame.csproj|C:\\Users\\hamab\\c#\\windowsform\\MatchingGame\\matchinggame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E89C5AB1-6745-42CC-8C40-F0761A990F2E}|MatchingGame\\MatchingGame.csproj|solutionrelative:matchinggame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89C5AB1-6745-42CC-8C40-F0761A990F2E}|MatchingGame\\MatchingGame.csproj|c:\\users\\hamab\\c#\\windowsform\\matchinggame\\matchinggame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89C5AB1-6745-42CC-8C40-F0761A990F2E}|MatchingGame\\MatchingGame.csproj|solutionrelative:matchinggame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hamab\\c#\\windowsform\\MatchingGame\\MatchingGame\\Form1.cs",
+              "RelativeDocumentMoniker": "MatchingGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\hamab\\c#\\windowsform\\MatchingGame\\MatchingGame\\Form1.cs",
+              "RelativeToolTip": "MatchingGame\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:20:53.228Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
